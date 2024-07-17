@@ -20,8 +20,8 @@ This repository contains all the resources and files related to our comprehensiv
 
 ## Sample Report Snapshot
 
-![Sample Report](sample_report_snapshot.p![Screenshot 2024-07-17 111002](https://github.com/user-attachments/assets/7c2181cf-3ded-4e2d-a20c-d6bd08aac8f6)
-ng)
+![Sample Report][Screenshot 2024-07-17 111002](https://github.com/user-attachments/assets/7c2181cf-3ded-4e2d-a20c-d6bd08aac8f6)
+
 
 *Above is a snapshot of our interactive Power BI dashboard. This visualizes key metrics such as sales trends, customer demographics, and product performance. The dashboard empowers stakeholders with actionable insights to drive strategic decisions in the coffee industry.*
 
